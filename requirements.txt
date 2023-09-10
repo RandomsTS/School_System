@@ -5,3 +5,4 @@ sqlparse==0.4.4
 tzdata==2023.3
 ua-parser==0.16.1
 user-agents==2.2.0
+mysqlclient==2.2.0
